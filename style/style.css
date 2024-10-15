@@ -1,0 +1,44 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.mybtn {
+  height: 4px;
+  bottom: 14px;
+  position: relative;
+  left: 20px;
+}
+
+.mybtn-2 {
+  top: 40px;
+}
+.top img {
+  transition: 1.5s all;
+}
+
+.top:hover img {
+  transform: scale(0.8);
+}
+.bottom img {
+  transition: 1.5s all;
+}
+
+.bottom:hover img {
+  transform: scale(0.8);
+}
+.left img {
+  transition: 1.5s all;
+}
+
+.left:hover img {
+  transform: scale(0.8);
+}
+.centre img {
+  transition: 1.5s all;
+}
+
+.centre:hover img {
+  transform: scale(0.8);
+}
